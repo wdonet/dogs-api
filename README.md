@@ -1,15 +1,15 @@
-## API Challenge
+# API Challenge
 
 This is an api for consuming Dog data from https://dog.ceo/dog-api/
 
-### Getting Started
+## Getting Started
 
-#### Requirements for installation
+### Requirements for installation
 
 - NPM
 - Node
 
-#### Run on local
+### Run on local
 
 1. `npm i` Do install it
 2. `npm start` to start API server, should see the below message
@@ -60,3 +60,7 @@ Press CTL+C to quit.
     "url":"https://images.dog.ceo/breeds/hound-ibizan/n02091244_822.jpg"
   }
   ```
+
+#### Run tests
+
+Just do `npm test`
